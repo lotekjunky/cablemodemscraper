@@ -1,6 +1,8 @@
 # cablemodemscraper
 Scrapes data from a 4 channel bonded Surfboard SB6121
 
+Required: bs4, requests and json
+
 Tested on a Surfboard 6121 with the following stats:
 
 Model Name: SB6121
